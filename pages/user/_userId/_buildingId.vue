@@ -173,6 +173,7 @@
               dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800
               align-middle
               text-center
+              hello
               justify-center
             "
             @click="addOrEditBuilding()"
